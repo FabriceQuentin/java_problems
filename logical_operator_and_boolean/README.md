@@ -13,4 +13,8 @@ The program must print a boolean value that indicates whether the party was succ
 Given three natural numbers A, B, and C. Determine if a triangle with these sides can exist.
 If the triangle exists, output the "YES" string; otherwise, output "NO".
 A triangle is valid if the sum of its two sides is greater than the third side. If three sides are A, B, and C, then three conditions should be met.
+1. A + B > C
+2. A + C > B
+3. B + C > A
+
 ![image](https://user-images.githubusercontent.com/79511860/218310073-e1b18cd1-6630-4569-a3a2-02b0dd860cb3.png)
